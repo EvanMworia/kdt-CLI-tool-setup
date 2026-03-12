@@ -67,7 +67,7 @@ Adding the folder to your PATH means you can run `kdt` from **any terminal windo
     ```
 6. Click **OK** on all open dialogs to save
 
-### Verify it worked:
+<!-- ### Verify it worked:
 
 Open a **new** Command Prompt or PowerShell window (existing ones won't pick up the change) and run:
 
@@ -77,7 +77,7 @@ kdt --version
 
 If you see a version number printed, kdt is installed and on your PATH. ✅
 
----
+--- -->
 
 ## Step 4 — Set Environment Variables (Authentication)
 
