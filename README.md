@@ -79,6 +79,8 @@ If you see a version number printed, kdt is installed and on your PATH. ✅
 
 --- -->
 
+> The steps from here on out can now be followed from the [KDT GitHub Repository](https://github.com/kondukto-io/kdt) or proceed from this page if you like. Cheers
+
 ## Step 4 — Set Environment Variables (Authentication)
 
 KDT needs two things to connect to your Invicti ASPM instance: the **host URL** and an **API token**.
