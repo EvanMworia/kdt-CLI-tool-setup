@@ -23,9 +23,9 @@ KDT is a command line interface for **Invicti ASPM** (Application Security Postu
 1. Go to the official KDT releases page:  
    👉 **https://github.com/kondukto-io/kdt/releases**
 
-2. Find the **latest release** and download the file named:
+2. Find the **latest release** and download the file, :
     ```
-    kdt-cli.exe
+    kdt-windows-amd64
     ```
 
 > This is a self-contained executable — no installer, no dependencies required.
