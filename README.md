@@ -183,9 +183,6 @@ kdt --config=C:\path\to\custom-config.yaml list projects
 **`Host and token configuration is required` error**  
 → Check that your environment variables are named exactly `INVICTI_ASPM_HOST` and `INVICTI_ASPM_TOKEN`, and open a new terminal after setting them.
 
-**`-t` flag not working for token**  
-→ Use the full flag `--token` instead. The shorthand `-t` is not supported.
-
 **Config file not being picked up**  
 → Confirm the file is named `.kdt.yml` (with the dot) and is located at `C:\Users\<YourUsername>\.kdt.yml`.
 
