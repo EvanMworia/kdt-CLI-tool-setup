@@ -37,7 +37,7 @@ KDT is a command line interface for **Invicti ASPM** (Application Security Postu
 Create a dedicated folder for the tool and move the downloaded file there.
 
 1. Create the folder `C:\kdt` (or any location you prefer)
-2. Move `kdt-cli.exe` into `C:\kdt`
+2. Move `kdt-windows-amd64` into `C:\kdt`
 3. Rename it to `kdt.exe` for convenience (optional but recommended — makes commands shorter)
 
 Your folder should look like this:
